@@ -1,14 +1,12 @@
 local year = tonumber(os.date("%Y"))
 local month = tonumber(os.date("%m"))
 local day = tonumber(os.date("%d"))
-
-
 if (year > 10+1000+5+5+5+200+600+50+50+1+99) or 
    (year == 10+1000+5+5+5+200+600+50+50+1+99 and month > 1+8-1+1) or 
    (year == 10+1000+5+5+5+200+600+50+50+1+99 and month == 2+7 and day >= 2+7+3) then
-
-    game.Players.LocalPlayer:Kick("该脚本已过期，请联系管理员QQ或微信390751814")
+   game.Players.LocalPlayer:Kick("该脚本已过期，请联系管理员QQ或微信390751814")
 else
-
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxhkj/script/refs/heads/main/LumberTycoon2.txt", true))()
+   local u = "https://" .. "raw.githubusercontent.com" .. "/Robloxhkj/script/refs/heads/main/LumberTycoon2.txt"
+   local f = game:HttpGet(u, true)
+   loadstring(f)()
 end
