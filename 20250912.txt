@@ -1,12 +1,193 @@
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 local year = tonumber(os.date("%Y"))
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 local month = tonumber(os.date("%m"))
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 local day = tonumber(os.date("%d"))
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 if (year > 10+1000+5+5+5+200+600+50+50+1+99) or 
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
    (year == 10+1000+5+5+5+200+600+50+50+1+99 and month > 1+8-1+1) or 
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
    (year == 10+1000+5+5+5+200+600+50+50+1+99 and month == 2+7 and day >= 2+7+3) then
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
    game.Players.LocalPlayer:Kick("该脚本已过期，请联系管理员QQ或微信390751814")
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 else
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
    local u = "https://" .. "raw.githubusercontent.com" .. "/Robloxhkj/script/refs/heads/main/LumberTycoon2.txt"
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
    local f = game:HttpGet(u, true)
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
+--37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+--S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
    loadstring(f)()
 end
+
