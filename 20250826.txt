@@ -1,0 +1,14 @@
+local year = tonumber(os.date("%Y"))
+local month = tonumber(os.date("%m"))
+local day = tonumber(os.date("%d"))
+
+
+if (year > 2025) or 
+   (year == 2025 and month > 8) or 
+   (year == 2025 and month == 8 and day >= 26) then
+
+    game.Players.LocalPlayer:Kick("该脚本已过期，请联系管理员QQ或微信390751814")
+else
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxhkj/script/refs/heads/main/KronHubLumberTycoon2.txt", true))()
+end
