@@ -27,13 +27,13 @@ if (year > 10+1000+5+5+5+200+600+50+50+1+99) or
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
 --S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
-   (year == 10+1000+5+5+5+200+600+50+50+1+99 and month > 5+5+1) or 
+   (year == 10+1000+5+5+5+200+600+50+50+1+99 and month > 5+5) or 
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
 --S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
 --S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
-   (year == 10+1000+5+5+5+200+600+50+50+1+99 and month == 5+5+1 and day >= 1) then
+   (year == 10+1000+5+5+5+200+600+50+50+1+99 and month == 5+5 and day >= 31) then
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
 --S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
@@ -75,4 +75,5 @@ end
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
 --S.x[0X4],S.x[9]));v[0X6Ac0]=(a);end;else if a~=0X31 then else R[5]=S.zT;R[0X6]=S.v;break;end;end;end;R[7]=(S.L.unpack);(R)[0b10__
 --37776 then break;end;until false;return a;end);if not(not f[0Xb7E])then v=f[0Xb7E];else v=0x67+(S.IT((S.kT(v>f[11459]and S.x[6]or S.x[7]))-
+
 
